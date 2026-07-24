@@ -13,3 +13,7 @@ NGU
 N
 g
 u
+
+
+
+Ngon thu force with lease
