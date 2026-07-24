@@ -13,3 +13,4 @@ NGU
 N
 g
 u
+hello ca nha
