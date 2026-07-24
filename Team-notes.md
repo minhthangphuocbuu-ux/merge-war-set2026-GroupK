@@ -6,3 +6,4 @@
 - ahaha
 - ohoho
 - arigato
+ chua haha
