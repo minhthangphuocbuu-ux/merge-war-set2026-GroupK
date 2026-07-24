@@ -8,3 +8,4 @@ Xin chao nguoi dep
 - ohoho
 - arigato
 NGU
+ chua haha
