@@ -7,3 +7,4 @@ NGU
 - ahaha
 - ohoho
 - arigato
+Xin chao nguoi dep
