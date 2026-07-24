@@ -9,3 +9,7 @@ Xin chao nguoi dep
 - arigato
 NGU
  chua haha
+
+N
+g
+u
